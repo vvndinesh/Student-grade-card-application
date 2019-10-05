@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey;
+}
+
+.table{
+	background-color: white;
+}
+
+.heading{
+	background-color: green;
+	padding: 10px;
+	color: white;
+}
+
+.btn-success{
+	background-color: green;
+}
